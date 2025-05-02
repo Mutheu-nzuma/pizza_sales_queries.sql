@@ -1,14 +1,10 @@
 # 🍕 Pizza Sales SQL Analysis
 
-This project showcases exploratory SQL analysis performed on a fictional pizza sales dataset. The goal is to uncover business insights such as revenue performance, customer ordering patterns, and product trends. The analysis uses SQL Server syntax and is ideal for SQL learners or anyone looking to build a data portfolio project.
+This project showcases exploratory SQL analysis performed on a fictional pizza sales dataset. The goal is to uncover business insights such as revenue performance, customer ordering patterns, and product trends. 
 
 ---
 
-## 📂 Project Structure
 
-- `pizza_sales_queries.sql` — Contains all SQL queries used in the analysis.
-- `README.md` — Project overview, KPIs, results, and usage instructions.
-- `assets/` (optional) — For screenshots or dashboards, if applicable.
 
 ---
 
